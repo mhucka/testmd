@@ -106,15 +106,15 @@ Once the workflow is installed in your repository on GitHub, Baler will run when
 
 Right after installing the workflow in your GitHub repository, it's wise to do a manual test run in order to check that things are working as expected.
 
-1. Go to the _Actions_ tab in your repository and click on the workflow named "Bad Link Reporter" in the sidebar on the left
+1. Go to the _Actions_ tab in your repository and click on the workflow named "Bad Link Reporter" in the sidebar on the left:
     <div align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow.png"><img alt="Screenshot of GitHub actions workflow list" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow.png" width="95%">
     </picture><br><br></div>
-2. In the page shown by GitHub next, click the <kbd>Run workflow</kbd> button in the right-hand side of the blue strip
+2. In the page shown by GitHub next, click the <kbd>Run workflow</kbd> button in the right-hand side of the blue strip:
     <div align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-button-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow.png"><img alt="Screenshot of GitHub Actions workflow run button" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-button.png" width="75%">
     </picture><br><br></div>
-3. In the pull-down, click the green <kbd>Run workflow</kbd> button near the bottom
+3. In the pull-down, click the green <kbd>Run workflow</kbd> button near the bottom:
     <div align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-run-button-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-run-button.png"><img alt="Screenshot of GitHub Actions workflow run menu" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-run-button.png" width="40%"></picture><br><br></div>
-4. Refresh the web page and a new line will be shown named after your workflow file
+4. Refresh the web page and a new line will be shown named after your workflow file:
     <div align="center"><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-running-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-running.png"><img alt="Screenshot of GitHub Actions running" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-running.png" width="70%"></picture><br><br></div>
 5. Click the title of that running workflow to make GitHub show the progress and results.
 
