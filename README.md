@@ -108,7 +108,7 @@ Right after installing the workflow in your GitHub repository, it's wise to do a
 
 1. Go to the _Actions_ tab in your repository and click on the workflow named "Bad Link Reporter" in the sidebar on the left
     <div align="center"> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow.png"><br><img alt="Screenshot of GitHub actions workflow list" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow.png" width="95%">
-    </picture></div>
+    <br></picture></div>
 2. In the page shown by GitHub next, click the <kbd>Run workflow</kbd> button in the right-hand side of the blue strip
     <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-button-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow.png"><br><img alt="Screenshot of GitHub Actions workflow run button" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-button.png" width="75%">
     <br><br></picture></div>
