@@ -111,7 +111,7 @@ Right after installing the workflow in your GitHub repository, it's wise to do a
     </picture></div>
 2. In the page shown by GitHub next, click the <kbd>Run workflow</kbd> button in the right-hand side of the blue strip
     <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-button-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow.png"><br><img alt="Screenshot of GitHub Actions workflow run button" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-run-workflow-button.png" width="75%">
-    </picture></div>
+    <br></picture></div>
 3. In the pull-down, click the green <kbd>Run workflow</kbd> button near the bottom
     <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-run-button-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-run-button.png"><br><img alt="Screenshot of GitHub Actions workflow run menu" src="https://raw.githubusercontent.com/caltechlibrary/baler/main/.graphics/github-workflow-run-button.png" width="40%"></picture></div>
 4. Refresh the web page and a new line will be shown named after your workflow file
